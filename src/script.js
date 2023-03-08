@@ -18,12 +18,12 @@ const scene = new THREE.Scene();
  * Galaxy
  */
 const parameters = {
-  count: 100000,
+  count: 250000,
   size: 0.01,
-  radius: 5,
-  branches: 3,
+  radius: 3.71,
+  branches: 4,
   spin: 1,
-  randomness: 0.4,
+  randomness: 0.575,
   randomnessPower: 1.5,
   insideColor: '#ff6030',
   outsideColor: '#1b3984',
