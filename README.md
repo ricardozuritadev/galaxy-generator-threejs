@@ -1,6 +1,7 @@
 <h1 align="center">Generador de galaxias con Three.js</h1>
 
-![app-title](https://user-images.githubusercontent.com/84975927/179807847-28e9c973-15c3-4d3c-a613-a2810807892a.png)
+![Screenshot_20230308_101523](https://user-images.githubusercontent.com/84975927/223684151-8ed253df-6051-4301-b664-b3726641a54c.png)
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![TrheeJs](https://img.shields.io/badge/Threejs-20232A?style=for-the-badge&logo=trianglel&logoColor=F0DB4F)
